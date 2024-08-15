@@ -1,2 +1,2 @@
 # test-website
-This is the test wensite on my LocalWP
+This is the test website on my LocalWP
